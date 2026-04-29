@@ -40,7 +40,7 @@ contact: knovengel@gmail.com
 
 #	Conclusion
 
-	This application provides a graphical simulation of disk scheduling algorithms including FCFS, SCAN, and C-SCAN. 
+	This application provides a graphical simulation of various disk scheduling algorithms. 
 	It enables users to input requests, select algorithms, and visualize disk head movement, 
 	offering a practical understanding of scheduling strategies and their efficiency.
 
